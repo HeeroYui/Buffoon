@@ -36,11 +36,10 @@ Final library objective:
 ========================
 
 AI with some capabilities:
-	- learn new word
-	- write simple program in interpreted language
-	- translate sentence
-	- play music, video on other application
-	- 
+* learn new word
+* write simple program in interpreted language
+* translate sentence
+* play music, video on other application
 	
 	
 
@@ -50,8 +49,11 @@ Some usefull library:
 =====================
 
 Voice Activity Detection (VAD): https://github.com/jtkim-kaist/VAD
+
 Audio Denoise: https://github.com/jtkim-kaist/Speech-enhancement
+
 Natural Language Processing (NLP): https://github.com/zalandoresearch/flair
+
 The DBLP Computer Science Bibliography: https://datahub.io/collections/yago
 
 
