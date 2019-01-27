@@ -44,6 +44,14 @@ AI with some capabilities:
 	
 
 
+Generation step:
+================
+
+Normalyze the origin corpus:
+```
+./normalizer_corpus/audio-reco-corpus/preprocessCorpus.py --input ../audio-reco-corpus-french/ --output ../normalyse-corpus/audio-reco
+```
+
 
 Some usefull library:
 =====================
